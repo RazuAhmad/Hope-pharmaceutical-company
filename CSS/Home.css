@@ -1,3 +1,7 @@
+.navbar li a:hover {
+  background: white;
+}
+
 .app__commitment {
   margin-top: 6rem;
   padding: 4rem 7rem;
